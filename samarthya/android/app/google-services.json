@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "480408835382",
+    "project_id": "samarthya-5d0a5",
+    "storage_bucket": "samarthya-5d0a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480408835382:android:1939b52ee4b9500986cf97",
+        "android_client_info": {
+          "package_name": "com.example.samarthya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480408835382-7t7jg66o127dfa5d079g7ltkdolr94ke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF5HpK1CugZ05PjLgxD8O6nmC_W2oNEEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480408835382-7t7jg66o127dfa5d079g7ltkdolr94ke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
